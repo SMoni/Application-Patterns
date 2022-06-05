@@ -1,1 +1,1 @@
-# Application-Patterns
+# Application Patterns
