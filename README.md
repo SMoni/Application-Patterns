@@ -1,6 +1,7 @@
 # Application Patterns
 
-* Reservierung
-* Inventar
-* Prozess/Arbeitsablauf
-*  
+* Rservations
+* Inventory
+* Process/Workflow
+* User-Management
+* 
