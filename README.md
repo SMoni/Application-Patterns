@@ -1,6 +1,6 @@
 # Application Patterns
 
-* Rservations
+* Reservations
 * Inventory
 * Process/Workflow
 * User-Management
